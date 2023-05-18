@@ -1,4 +1,4 @@
-![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_uninorte_colombia.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Logotipo_de_la_Universidad_del_Norte.svg/512px-Logotipo_de_la_Universidad_del_Norte.svg.png)
 ## INFORMACIÓN DEL ESTUDIANTE
 **Nombre:** Sebastián De Jesús Santos Vergara
 
@@ -8,4 +8,4 @@
 [Looker studio]()
 * * *
 ### PREGUNTA
-### _1.	¿Cuál es el producto más vendido en una ubicación geográfica específica?_
+### _¿Cuál es el contaminante con mayor concentración total en cada estación?_
